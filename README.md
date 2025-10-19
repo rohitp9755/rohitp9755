@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Rohit Prajapat  
+🎓 B.Tech in Mathematics & Computing @ SVNIT Surat  
+🤖 Passionate about AIML and  Data Science 
+🚀 Building projects that merge Math, AI, and Real-World Impact  
+
+
 
 <!--
 **rohitp9755/rohitp9755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
