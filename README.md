@@ -1,7 +1,15 @@
-👋 Hi, I'm Rohit Prajapat  
-🎓 B.Tech in Mathematics & Computing @ SVNIT Surat  
-🤖 Passionate about AIML and  Data Science 
-🚀 Building projects that merge Math, AI, and Real-World Impact  
+<h1 align="center">  Hi, I'm Rohit Prajapat  </h1>
+
+
+- 🎓 B.Tech in Mathematics & Computing @ SVNIT Surat  
+- 🤖 Passionate about AIML and  Data Science 
+-  🚀 Building projects that merge Math, AI, and Real-World Impact  
+- ✉︎ rohitprajapat099@gmail.com
+
+
+---
+
+### Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitp9755&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitp9755&layout=compact&theme=radical)
