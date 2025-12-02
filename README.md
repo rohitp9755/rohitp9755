@@ -23,14 +23,6 @@
 </div>
 
 
----
-
-### Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitp9755&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitp9755&layout=compact&theme=radical)
-
-
 
 
 <!--
