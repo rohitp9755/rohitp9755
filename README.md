@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rohit <br><br>- 🔭 I’m  a student at SVNIT<br>- 📚 I'm currently learning  Deep Learning and <br>-  📫 How to reach me rohitprajapat0992gmail.com</p>
+<p align="left">I'm Rohit <br><br>- 🔭 I’m  a student at SVNIT<br>- 📚 I'm currently learning  Deep Learning and Data Science <br>-  📫 How to reach me rohitprajapat0992gmail.com</p>
 
 ###
 
