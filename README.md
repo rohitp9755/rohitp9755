@@ -1,80 +1,116 @@
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160"/>
+
+# Hi there, I'm Rohit Prajapat 👋
+### 🚀 AI & Data Science Enthusiast | Mathematics & Computing @ SVNIT Surat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Deep+Learning+%7C+Data+Science+%7C+Machine+Learning;Mathematics+%26+Computing+Student;Always+Learning+Something+New!" alt="Typing SVG" />
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rohit-prajapat-447831290/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_ro.hitt_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rohitprajapat099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitp9755&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech in Mathematics & Computing** at **SVNIT Surat**
+- 🤖 Passionate about **Artificial Intelligence & Deep Learning**
+- 📊 Exploring **Data Science, Machine Learning, and MLOps**
+- 🌱 Currently learning **LLMs, Deep Learning, and AI Agents**
+- 💡 Interested in building **real-world AI products that solve meaningful problems**
+- 📫 Reach me at **rohitprajapat099@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap" />
+</p>
+
+### AI / Data Science
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🔭 Currently Working On
+
+- 🩺 AI-powered Ultrasound Report Generation
+- 🤖 Vision-Language Models for Medical Imaging
+- 🚀 AI Agents & LLM Applications
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|------------|------|
+| 🩺 **AI Ultrasound Report Generator** | Vision-language model for automatic ultrasound image captioning and report generation. | Python, Transformers |
+| 🛰️ **Bhu-Nirakshak** | AI-based illegal construction detection using satellite imagery. | OpenCV, Deep Learning, GIS |
+| 🤖 **AI Data Marketplace** | Decentralized platform for fair AI data sharing and monetization. | AI, Blockchain Concepts |
+
+> 💡 *Check out my repositories below to see what I'm currently building!*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rohitp9755.rohitp9755&"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitp9755&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitp9755&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=rohitp9755&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## ⚡ Fun Fact
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Rohit <br><br>- 🔭 I’m  a student at SVNIT<br>- 📚 I'm currently learning  Deep Learning and Data Science <br>-  📫 Reach me through rohitprajapat099@gmail.com</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+> **"Mathematics gives me the logic, AI gives me the tools, and coding gives me the power to build the future."**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitp9755&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+### ⭐ Thanks for visiting my profile! ⭐
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+```
